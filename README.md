@@ -1,2 +1,2 @@
 # Projeto Grid e FLexBox
- Projeto pessoal estudando GRID e FlexBox
+ Estudando CSS Grid e FlexBox
